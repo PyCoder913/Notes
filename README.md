@@ -13,7 +13,7 @@ This repository is a living archive of my mathematical explorations—developed 
 ## 📁 Topics Available
 
 ### ✅ [Functional Analysis](./Decoding_Functional_Analysis.pdf)  
-A comprehensive reference handbook co-authored with [Sonali Saha](https://www.linkedin.com/in/sonalisaha), based on Prof. Venku Naidu D’s Fall 2024 lectures at IIT Hyderabad. Covers normed spaces, Banach and Hilbert spaces, bounded operators, and the "Five Pillars" of Functional Analysis.
+A comprehensive reference handbook co-authored with [Sonali Saha](https://www.linkedin.com/in/sonali-saha-6aaa84209/), based on Prof. Venku Naidu D’s Fall 2024 lectures at IIT Hyderabad. Covers normed spaces, Banach and Hilbert spaces, bounded operators, and the "Five Pillars" of Functional Analysis.
 
 > 📄 [`Download PDF`](./Decoding_Functional_Analysis.pdf)
 
@@ -29,14 +29,13 @@ A comprehensive reference handbook co-authored with [Sonali Saha](https://www.li
 
 **Rajdeep Pathak**  
 🎓 M.Sc Student, Mathematics & Computing | 📍 IIT Hyderabad  
-[LinkedIn](https://www.linkedin.com/in/rajdeeppathak) • [Email](mailto:pathakrajdeep91@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rajdeep-pathak) • [Email](mailto:pathakrajdeep91@gmail.com)
 
 ---
 
 ## 🤝 Contributions & Feedback
 
-Found a typo? Want to suggest improvements? Open an [issue](https://github.com/your-repo/issues) or submit a [pull request](https://github.com/your-repo/pulls).  
-Collaborators and co-authors are always credited.
+Found a typo or error? Want to suggest improvements? Please feel free to contact me via email.
 
 ---
 
