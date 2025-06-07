@@ -6,7 +6,7 @@ Welcome to my collection of carefully curated notes on various topics in **mathe
 
 ## 🧠 Purpose
 
-This repository is a living archive of my mathematical explorations—developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis on definitions, theorems, proofs, and examples.
+This repository is a living archive of my mathematical explorations—developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis of each document is on definitions, theorems, proofs, and examples.
 
 ---
 
