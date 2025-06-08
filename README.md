@@ -50,6 +50,6 @@ If you find these notes helpful, please consider starring 🌟 the repository—
 All documents in this repository are shared under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
 You are free to use and adapt them with proper attribution for **non-commercial** purposes.
 
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
