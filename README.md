@@ -29,6 +29,7 @@ A comprehensive reference handbook co-authored with [Sonali Saha](https://www.li
 
 **Rajdeep Pathak**  
 🎓 Ph.D. Scholar, Department of Mathematics | 📍 Sorbonne Université, Paris (ForeML Lab, SUAD, and SCAI Paris)
+
 [LinkedIn](https://www.linkedin.com/in/rajdeep-pathak) • [Email 1](mailto:pathakrajdeep91@gmail.com) • [Email 2](mailto:pathak.rajdeep@alumni.iith.ac.in)
 
 ---
