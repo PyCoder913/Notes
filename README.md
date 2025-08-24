@@ -6,7 +6,7 @@ Welcome to my collection of carefully curated notes on various topics in **mathe
 
 ## 🧠 Purpose
 
-This repository is a living archive of my mathematical explorations—developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis of each document is on definitions, theorems, proofs, and examples.
+This repository is a living archive of my mathematical explorations, developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis of each document is on definitions, theorems, proofs, and examples.
 
 ---
 
@@ -28,8 +28,8 @@ A comprehensive reference handbook co-authored with [Sonali Saha](https://www.li
 ## ✍️ Author
 
 **Rajdeep Pathak**  
-🎓 M.Sc Student, Mathematics & Computing | 📍 IIT Hyderabad  
-[LinkedIn](https://www.linkedin.com/in/rajdeep-pathak) • [Email](mailto:pathakrajdeep91@gmail.com)
+🎓 Ph.D. Scholar, Department of Mathematics | 📍 Sorbonne Université, Paris (ForeML Lab, SUAD, and SCAI Paris)
+[LinkedIn](https://www.linkedin.com/in/rajdeep-pathak) • [Email 1](mailto:pathakrajdeep91@gmail.com) • [Email 2](mailto:pathak.rajdeep@alumni.iith.ac.in)
 
 ---
 
