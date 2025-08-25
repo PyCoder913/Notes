@@ -1,12 +1,12 @@
 # 📚 Notes on Mathematics
 
-Welcome to my collection of carefully curated notes on various topics in **mathematics**. These documents aim to serve as concise references for students, self-learners, or anyone revisiting mathematical foundations.
+Welcome to my collection of notes on various topics in **mathematics**. These documents aim to serve as concise references for students, self-learners, or anyone revisiting mathematical foundations.
 
 ---
 
 ## 🧠 Purpose
 
-This repository is a living archive of my mathematical explorations, developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis of each document is on definitions, theorems, proofs, and examples.
+This repository is an archive of my mathematical explorations, developed through coursework, self-study, and discussions with peers and professors. Mostly, the emphasis of each document is on definitions, theorems, proofs, and examples. I express my sincere gratitude towards my co-authors and course instructors, for helping me develop and finalize the notes.
 
 ---
 
