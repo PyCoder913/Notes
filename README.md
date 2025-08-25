@@ -17,11 +17,15 @@ A comprehensive reference handbook co-authored with [Sonali Saha](https://www.li
 
 > 📄 [`Download PDF`](./Decoding_Functional_Analysis.pdf)
 
+### ✅ [Fourier Analysis](./Decoding_Fourier_Analysis.pdf)  
+A comprehensive reference handbook, based on Prof. Venku Naidu D’s Spring 2025 lectures at IIT Hyderabad. Covers periodic and non-periodic Fourier analysis, and periodic and non-periodic distribution theory. We study several transformations on functions, such as translations, modulations, convolutions, derivatives, and so on, and see how the Fourier transform acts on them.
+
+> 📄 [`Download PDF`](./Decoding_Fourier_Analysis.pdf)
 ---
 
 ## 🚧 Upcoming Topics
 
-- Fourier Analysis
+- Extreme Value Theory
 
 ---
 
